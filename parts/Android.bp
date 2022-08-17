@@ -14,10 +14,6 @@ android_app {
     system_ext_specific: true,
     privileged: true,
 
-    static_libs: [
-        "org.lineageos.settings.resources",
-    ],
-
     optimize: {
         proguard_flags_files: ["proguard.flags"],
     },
