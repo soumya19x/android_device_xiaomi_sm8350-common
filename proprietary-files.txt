@@ -577,9 +577,6 @@ vendor/lib64/unnhal-acc-common.so
 vendor/lib64/unnhal-acc-gpu.so
 vendor/lib64/unnhal-acc-htp.so
 
-# NFC
-vendor/lib/libsn100u_fw.so
-
 # NVRAM
 vendor/bin/nv_mac
 
